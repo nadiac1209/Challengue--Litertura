@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-starter-web-3.3.0-javadoc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/spring-boot-starter-web-3.3.0-javadoc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
